@@ -2,5 +2,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/',  // This should match the repository name
+  base: '/movie-browser-app',  // This should match the repository name
 });
